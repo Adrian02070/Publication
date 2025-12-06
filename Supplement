@@ -1,6 +1,4 @@
 
-
-# --- Packages ------------------------------------------------------
 library(readxl)       # read_excel
 library(lmtest)       # bptest, dwtest, waldtest, coeftest
 library(sandwich)     # vcovHC, vcovCL, NeweyWest
